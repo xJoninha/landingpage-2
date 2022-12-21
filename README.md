@@ -1,3 +1,6 @@
+[Página finalizada!](https://xjoninha.github.io/landingpage-2/)
+[Design da pagina!](https://www.figma.com/file/qkkUmNBIjRt3uoQLUXvEWX/Landing-page-design-(Community)?node-id=0%3A1&t=QkC1qOFSRU2KJdwe-0)
+
 # Landing Page-2
 >Praticando com landing page, segundo repositório, para manter o conhecimeto em dia :D
 
